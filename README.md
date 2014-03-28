@@ -1,2 +1,2 @@
-votes.github.io
-===============
+Votes
+=====
